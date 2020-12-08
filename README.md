@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi! I'm **Cesar "Asfo" Zavala**, from Guanajuato, I have 28 years old and I work as a Senior Application Developer @ SCIO Consulting
+Hi! I'm **Cesar "Asfo" Zavala**, from Moroleón, Guanajuato, México, I have 28 years old and I work as a Senior Application Developer @ SCIO Consulting
 
 ### Currently working on...
 Right now I'm building a Bot using "Bot Framework" that is getting connected to Twilio using Twilio Functions to generate calls, SMS and soon, web-chat...
