@@ -38,7 +38,6 @@ In my free times I play videogames with my friends, watch memes, videos, write p
 ![Adobe Illustrator](http://img.shields.io/badge/Adobe%20Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
 ![Adobe After Effects](http://img.shields.io/badge/Adobe%20After%20Effects-blueviolet?style=flat-square&logo=adobe-after-effects&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/Adobe%20XD-e300b9?style=flat-square&logo=adobe-xd&logoColor=ffffff)
-![Sketch](http://img.shields.io/badge/Sketch-yellow?style=flat-square&logo=sketch&logoColor=ffffff)
 
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=FCC624b&link)
