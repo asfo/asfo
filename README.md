@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi! I'm **Cesar "Asfo" Zavala**, from Moroleón, Guanajuato, México, I have 28 years old and I work as a Senior Application Developer @ SCIO Consulting
+Hi! I'm **Cesar "Asfo" Zavala**, from Moroleón, Guanajuato, México, I have 29 years old and I work as a Senior Application Developer @ SCIO Consulting
 
 ### What I do as a hobby
 In my free times I play videogames with my friends, watch memes, videos, write posts in Medium, read interesting posts, watch movies and a lot of other things...including from time to time, freelance works...
