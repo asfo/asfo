@@ -23,15 +23,29 @@
 }
 ```
 
-#### Code Status
+## Get in touch:
+
+<a href="https://www.linkedin.com/in/asfo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hola@asfo.dev?subject=Hi there!"><img src="https://img.shields.io/badge/Gmail-FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>     
+## Code Stats
 <a href="https://codestats.net/users/asfo">
   <img src='https://codestats-readme.wegfan.cn/history-graph/asfo?width=850&height=300&history_days=15&max_languages=12&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","00897b","b276b2","ffc0cb","cddc39","7e57c2","bdbdbd"]' alt="Asfo's Code::Stats history graph" />
 </a>
 
-### Holopin
+## :bar_chart: Github Stats
+
+[![Asfo's github stats](https://github-readme-stats.vercel.app/api?username=asfo&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=asfo&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfo&layout=compact&theme=dracula&show_icons=true)](https://github.com/asfo/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asfo&background=082032&dates=ffffff&ring=F7DF1E&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=ff006c&hide_border=true)](https://git.io/streak-stats)
+
+## Skills
+     
+![My Skills](https://skillicons.dev/icons?i=cloudflare,aws,azure,nginx,docker,github,postman,git,js,html,php,ts,css,sass,mysql,jquery,bootstrap,nodejs,express,angular,react,wordpress,laravel,tailwind,webpack,linux,codepen,idea,vscode,photoshop,illustrator,markdown)
+
+## Trophies & Badges
 
 [![@asfo's Holopin board](https://holopin.io/api/user/board?user=asfo)](https://holopin.io/@asfo)
 
-## Github Stats
-[![Asfo's Github stats](https://github-readme-stats.vercel.app/api?username=asfo&theme=dracula)](https://github.com/asfo/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfo&layout=compact&theme=dracula&show_icons=true)](https://github.com/asfo/)
+<img src="https://github-profile-trophy.vercel.app/?username=asfo&theme=dracula&no-bg=true" />
