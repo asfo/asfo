@@ -3,13 +3,12 @@
 ```json
 {
 	"user": "asfo",
-	"name": "Cesar Zavala",
 	"nickname": "Asfo",
 	"degree": "BA in Interactive Media",
 	"description": "Full-Stack (Node/PHP/Angular) Developer. UI designer (and some UX).",
 	"country": "México",
-	"age": 31,
-	"currentEmployer": "SourceScrub",
+	"age": 33,
+	"currentEmployer": "Asfo Development",
 	"hobbies": ["Videogames", "Memes", "Videos", "Blogging", "Movies"],
 	"freelance": true,
 	"languages": ["JS", "PHP", "HTML", "CSS", "TS", "SASS"],
@@ -25,7 +24,6 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=2000&color=F7B316&vCenter=true&random=false&width=110&height=25&lines=Get+in+touch)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/asfo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hola@asfo.dev?subject=Hi there!"><img src="https://img.shields.io/badge/Gmail-FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>     
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=2000&color=F7B316&vCenter=true&random=false&width=110&height=25&lines=Code+Stats)](https://git.io/typing-svg)
