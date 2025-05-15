@@ -1,5 +1,4 @@
-# :wave: [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=2000&color=F7B316&vCenter=true&random=false&width=110&height=25&lines=Hey+there!)](https://git.io/typing-svg) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasfo&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
+# :wave: [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=2000&color=F7B316&vCenter=true&random=false&width=110&height=25&lines=Hey+there!)](https://git.io/typing-svg) 
 ```json
 {
 	"user": "asfo",
